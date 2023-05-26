@@ -22,7 +22,7 @@ Next run this code, we spilt this dataset into 80% train 20% val.
 ```bash
 import splitfolders
 splitfolders.ratio("/EMO-DB_dataset", # The location of dataset
-                   output="/content/drive/MyDrive/OptimizationProject/data", # The output location
+                   output="/data_audio", # The output location
                    seed=42, # The number of seed
                    ratio=(.8, .2, 0), # The ratio of splited dataset
                    group_prefix=None, # If your dataset contains more than one file like ".jpg", ".pdf", etc
