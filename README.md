@@ -50,7 +50,7 @@ In the uploaded files there is a notebook you just need to run all cell.
 - [Reem Alqahtani](https://github.com/reemabdulmohsen)
 - [Shoug Alsuhaibani](https://github.com/alsuhaibanishoug)
 - [Reema Aloqayli](https://github.com/Roqayli)
-- [Norah Alsharhan](https://github.com/-)
+- [Norah Alsharhan](https://github.com/Noraty)
 
 
 
